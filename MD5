@@ -1,11 +1,10 @@
-ee3779d746c319031198b4f19b39617d *DESCRIPTION
+a275d04cdc63a90b0ab3eb67cd73c136 *DESCRIPTION
 c94738197916e73c5bb28b32d76a8466 *NAMESPACE
 e8893985bd691bcb660ef85a401837fc *R/interface.R
-94aef6d3197bf17185ab743b372228c9 *README.md
-1210a096578bbf28dfeadc7243ad5f74 *build/vignette.rds
-457dbf6ed1ca78c0f16aa9f8b3058824 *inst/doc/tsvio.R
+e7dda7a766ac0c8fcfda4bd56f0698a6 *build/vignette.rds
+0cb151815f5ec02ca3fd1bbd1b4efda8 *inst/doc/tsvio.R
 e401101cf8242580b6a8942615045dfa *inst/doc/tsvio.Rmd
-41e2c1eddc2456889222fe86eb813109 *inst/doc/tsvio.html
+06c02299814246cb0fb79c0be6c5e445 *inst/doc/tsvio.html
 144f4eeaed682c95f121fa912bdbfe4e *man/tsvGenIndex.Rd
 df76a0790a80e8943278139eb2f4cbfa *man/tsvGetData.Rd
 a3d9de80a1d654e78bcb943e39f2f2f3 *man/tsvGetLines.Rd
@@ -17,7 +16,7 @@ cbfcfd3ff98302aa058e19dc595acebf *src/dht.h
 1157024e74a24a8a84593597d937804b *src/getlines.c
 0efc5c279f824f9d83242cf3febc0c2a *src/getlines.h
 19a4078ba6b0b9aca817e82cacd2ef37 *src/tsvio.h
-e48cfb26fa30ebacfd50ba83bf58f972 *src/tsvlib.c
+e101c6184d150142b5ca5f3cd75fccb8 *src/tsvlib.c
 7b7f08179a4659bf8ca05fe51f7cceaf *tests/testthat.R
 5cb412cae5ff4f84aa090312ee5c611d *tests/testthat/test-00-tsvio.R
 e401101cf8242580b6a8942615045dfa *vignettes/tsvio.Rmd

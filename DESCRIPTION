@@ -1,6 +1,6 @@
 Package: tsvio
 Title: Simple Utilities for Tab-Separated-Value (TSV) Files
-Version: 1.0.4
+Version: 1.0.6
 Authors@R: 
   c(person(given=c("Bradley", "M"), family="Broom", role=c("aut"), email="bmbroom@mdanderson.org", comment=c(ORCID="0000-0002-0915-3164")),
     person(given=c("Mary", "A"), family="Rohrdanz", role=c("ctb", "cre"), email="marohrdanz@mdanderson.org"),
@@ -20,7 +20,7 @@ Collate: 'interface.R'
 Config/testthat/edition: 3
 VignetteBuilder: knitr
 RoxygenNote: 7.2.3
-Packaged: 2023-10-03 16:46:50 UTC; marohrdanz
+Packaged: 2023-11-28 14:20:09 UTC; marohrdanz
 Author: Bradley M Broom [aut] (<https://orcid.org/0000-0002-0915-3164>),
   Mary A Rohrdanz [ctb, cre],
   Chris Wakefield [ctb],
@@ -29,4 +29,4 @@ Author: Bradley M Broom [aut] (<https://orcid.org/0000-0002-0915-3164>),
   MD Anderson Cancer Center [cph]
 Maintainer: Mary A Rohrdanz <marohrdanz@mdanderson.org>
 Repository: CRAN
-Date/Publication: 2023-10-04 16:10:02 UTC
+Date/Publication: 2023-11-28 17:00:02 UTC
